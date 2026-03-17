@@ -1,0 +1,36 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Gateway/">
+    <Project Path="src/Gateway/TaskManager.Gateway/TaskManager.Gateway.csproj" />
+  </Folder>
+  <Folder Name="/src/Services/" />
+  <Folder Name="/src/Services/Auth/">
+    <Project Path="src/Services/Auth/TaskManager.Auth.API/TaskManager.Auth.API.csproj" />
+    <Project Path="src/Services/Auth/TaskManager.Auth.Application/TaskManager.Auth.Application.csproj" />
+    <Project Path="src/Services/Auth/TaskManager.Auth.Domain/TaskManager.Auth.Domain.csproj" />
+    <Project Path="src/Services/Auth/TaskManager.Auth.Infrastructure/TaskManager.Auth.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Services/Notification/">
+    <Project Path="src/Services/Notification/TaskManager.Notification.API/TaskManager.Notification.API.csproj" />
+    <Project Path="src/Services/Notification/TaskManager.Notification.Application/TaskManager.Notification.Application.csproj" />
+    <Project Path="src/Services/Notification/TaskManager.Notification.Domain/TaskManager.Notification.Domain.csproj" />
+    <Project Path="src/Services/Notification/TaskManager.Notification.Infrastructure/TaskManager.Notification.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Services/Project/">
+    <Project Path="src/Services/Project/TaskManager.Project.API/TaskManager.Project.API.csproj" />
+    <Project Path="src/Services/Project/TaskManager.Project.Application/TaskManager.Project.Application.csproj" />
+    <Project Path="src/Services/Project/TaskManager.Project.Domain/TaskManager.Project.Domain.csproj" />
+    <Project Path="src/Services/Project/TaskManager.Project.Infrastructure/TaskManager.Project.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Services/Task/">
+    <Project Path="src/Services/Task/TaskManager.Task.API/TaskManager.Task.API.csproj" />
+    <Project Path="src/Services/Task/TaskManager.Task.Application/TaskManager.Task.Application.csproj" />
+    <Project Path="src/Services/Task/TaskManager.Task.Domain/TaskManager.Task.Domain.csproj" />
+    <Project Path="src/Services/Task/TaskManager.Task.Infrastructure/TaskManager.Task.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Shared/">
+    <Project Path="src/Shared/TaskManager.Shared.Application/TaskManager.Shared.Application.csproj" />
+    <Project Path="src/Shared/TaskManager.Shared.Domain/TaskManager.Shared.Domain.csproj" />
+    <Project Path="src/Shared/TaskManager.Shared.Infrastructure/TaskManager.Shared.Infrastructure.csproj" />
+  </Folder>
+</Solution>

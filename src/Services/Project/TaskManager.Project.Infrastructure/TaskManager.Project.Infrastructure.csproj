@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\TaskManager.Project.Application\TaskManager.Project.Application.csproj" />
+    <ProjectReference Include="..\TaskManager.Project.Domain\TaskManager.Project.Domain.csproj" />
+    <ProjectReference Include="..\..\..\Shared\TaskManager.Shared.Infrastructure\TaskManager.Shared.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
