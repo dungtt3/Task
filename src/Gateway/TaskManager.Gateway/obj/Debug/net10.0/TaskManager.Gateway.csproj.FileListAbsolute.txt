@@ -42,3 +42,11 @@ C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Gateway\TaskManager.Gateway\ob
 C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Gateway\TaskManager.Gateway\obj\Debug\net10.0\TaskManager.Gateway.genruntimeconfig.cache
 C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Gateway\TaskManager.Gateway\obj\Debug\net10.0\ref\TaskManager.Gateway.dll
 C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Gateway\TaskManager.Gateway\bin\Debug\net10.0\ocelot.json
+C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Gateway\TaskManager.Gateway\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Gateway\TaskManager.Gateway\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Gateway\TaskManager.Gateway\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Gateway\TaskManager.Gateway\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Gateway\TaskManager.Gateway\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Gateway\TaskManager.Gateway\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Gateway\TaskManager.Gateway\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Gateway\TaskManager.Gateway\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
