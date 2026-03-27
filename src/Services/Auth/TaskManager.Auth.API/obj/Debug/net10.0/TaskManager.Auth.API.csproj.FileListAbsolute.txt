@@ -105,3 +105,4 @@ C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Services\Auth\TaskManager.Auth
 C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Services\Auth\TaskManager.Auth.API\obj\Debug\net10.0\TaskManager.Auth.API.pdb
 C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Services\Auth\TaskManager.Auth.API\obj\Debug\net10.0\TaskManager.Auth.API.genruntimeconfig.cache
 C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Services\Auth\TaskManager.Auth.API\obj\Debug\net10.0\ref\TaskManager.Auth.API.dll
+C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Services\Auth\TaskManager.Auth.API\bin\Debug\net10.0\Scalar.AspNetCore.dll

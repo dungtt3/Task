@@ -104,3 +104,4 @@ C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Services\Project\TaskManager.P
 C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Services\Project\TaskManager.Project.API\obj\Debug\net10.0\TaskManager.Project.API.pdb
 C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Services\Project\TaskManager.Project.API\obj\Debug\net10.0\TaskManager.Project.API.genruntimeconfig.cache
 C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Services\Project\TaskManager.Project.API\obj\Debug\net10.0\ref\TaskManager.Project.API.dll
+C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Services\Project\TaskManager.Project.API\bin\Debug\net10.0\Scalar.AspNetCore.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "R4gItGuHIvI=",
+  "dgSpecHash": "VX3qv09r9Wk=",
   "success": true,
   "projectFilePath": "C:\\Users\\tuand\\OneDrive\\Documents\\GitHub\\Task\\src\\Services\\Task\\TaskManager.Task.API\\TaskManager.Task.API.csproj",
   "expectedPackageFiles": [
@@ -26,6 +26,7 @@
     "C:\\Users\\tuand\\.nuget\\packages\\mongodb.bson\\3.7.0\\mongodb.bson.3.7.0.nupkg.sha512",
     "C:\\Users\\tuand\\.nuget\\packages\\mongodb.driver\\3.7.0\\mongodb.driver.3.7.0.nupkg.sha512",
     "C:\\Users\\tuand\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\tuand\\.nuget\\packages\\scalar.aspnetcore\\2.0.36\\scalar.aspnetcore.2.0.36.nupkg.sha512",
     "C:\\Users\\tuand\\.nuget\\packages\\serilog\\4.3.0\\serilog.4.3.0.nupkg.sha512",
     "C:\\Users\\tuand\\.nuget\\packages\\serilog.aspnetcore\\10.0.0\\serilog.aspnetcore.10.0.0.nupkg.sha512",
     "C:\\Users\\tuand\\.nuget\\packages\\serilog.extensions.hosting\\10.0.0\\serilog.extensions.hosting.10.0.0.nupkg.sha512",

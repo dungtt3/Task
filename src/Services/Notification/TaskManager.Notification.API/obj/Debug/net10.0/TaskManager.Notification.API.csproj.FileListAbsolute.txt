@@ -104,3 +104,4 @@ C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Services\Notification\TaskMana
 C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Services\Notification\TaskManager.Notification.API\obj\Debug\net10.0\TaskManager.Notification.API.pdb
 C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Services\Notification\TaskManager.Notification.API\obj\Debug\net10.0\TaskManager.Notification.API.genruntimeconfig.cache
 C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Services\Notification\TaskManager.Notification.API\obj\Debug\net10.0\ref\TaskManager.Notification.API.dll
+C:\Users\tuand\OneDrive\Documents\GitHub\Task\src\Services\Notification\TaskManager.Notification.API\bin\Debug\net10.0\Scalar.AspNetCore.dll

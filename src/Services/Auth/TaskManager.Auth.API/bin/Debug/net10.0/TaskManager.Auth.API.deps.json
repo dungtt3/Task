@@ -9,6 +9,7 @@
       "TaskManager.Auth.API/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "10.0.2",
+          "Scalar.AspNetCore": "2.0.36",
           "TaskManager.Auth.Application": "1.0.0",
           "TaskManager.Auth.Infrastructure": "1.0.0"
         },
@@ -363,6 +364,14 @@
           "lib/net5.0/Pipelines.Sockets.Unofficial.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "2.2.8.1080"
+          }
+        }
+      },
+      "Scalar.AspNetCore/2.0.36": {
+        "runtime": {
+          "lib/net9.0/Scalar.AspNetCore.dll": {
+            "assemblyVersion": "2.0.36.0",
+            "fileVersion": "2.0.36.0"
           }
         }
       },
@@ -778,6 +787,13 @@
       "sha512": "sha512-zG2FApP5zxSx6OcdJQLbZDk2AVlN2BNQD6MorwIfV6gVj0RRxWPEp2LXAxqDGZqeNV1Zp0BNPcNaey/GXmTdvQ==",
       "path": "pipelines.sockets.unofficial/2.2.8",
       "hashPath": "pipelines.sockets.unofficial.2.2.8.nupkg.sha512"
+    },
+    "Scalar.AspNetCore/2.0.36": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-piAamX1ArrRA3+Vgz8FaO+oeintpD+qD4d5DmGcW+RtKB76H7FIqZifemPzOEl8cJYjhmwYr81gJOPaJF9+5KQ==",
+      "path": "scalar.aspnetcore/2.0.36",
+      "hashPath": "scalar.aspnetcore.2.0.36.nupkg.sha512"
     },
     "Serilog/4.3.0": {
       "type": "package",

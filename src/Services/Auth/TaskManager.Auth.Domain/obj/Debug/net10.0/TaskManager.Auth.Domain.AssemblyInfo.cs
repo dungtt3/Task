@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskManager.Auth.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6e603f2a086f7802e21769916ac511069e20b07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b802db8ef4a1e2079b87c75614be08d307fe2d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskManager.Auth.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskManager.Auth.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
