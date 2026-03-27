@@ -1,3 +1,4 @@
+using Scalar.AspNetCore;
 using Serilog;
 using TaskManager.Task.Infrastructure;
 using TaskManager.Shared.Infrastructure.Extensions;
@@ -23,7 +24,16 @@ builder.Services.AddTaskInfrastructure(builder.Configuration);
 
 var app = builder.Build();
 
-if (!app.Environment.IsDevelopment())
+if (app.Environment.IsDevelopment())
+{
+    app.MapOpenApi();
+    app.MapScalarApiReference(options =>
+    {
+        options.Title = "TaskManager Task API";
+        options.Theme = ScalarTheme.BluePlanet;
+    });
+}
+else
 {
     app.UseHsts();
 }
